@@ -405,3 +405,5 @@ testem.log
 .DS_Store
 Thumbs.db
 /chat-app-angular/.vscode
+/chat-app-angular/.angular/cache/18.2.0/vite/deps
+/chat-app-angular/.angular/cache/18.2.0/chat-app-angular
